@@ -1,0 +1,23 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "test du premier bot de la nouvelle ère",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/salsinat/bot-discord.git"
+  },
+  "keywords": [
+    "bot",
+    "discord"
+  ],
+  "author": "salsinat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salsinat/bot-discord/issues"
+  },
+  "homepage": "https://github.com/salsinat/bot-discord#readme"
+}
