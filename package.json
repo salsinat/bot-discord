@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/salsinat/bot-discord/issues"
   },
-  "homepage": "https://github.com/salsinat/bot-discord#readme"
+  "homepage": "https://github.com/salsinat/bot-discord#readme",
+  "dependencies": {
+    "discord.js": "^14.19.3"
+  }
 }
